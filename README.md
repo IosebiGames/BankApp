@@ -19,4 +19,7 @@ Honestly, Bank App is totally normal yet kind of strange Java project, because i
 ## Limitation: 
  Statistics stay as 0 regardless of service connection or activity, if it wasn't modified from source code. (Let's see if this will change one day.)
 
+## About use:
+ You are free to run the app or privately modify source code as you want, just don't claim the App as yours and don't sell it, Mention me as original creator if you wish to use my App somewhere.
+
 ### Decision: today as of June 26, Bank App is being fully finished after 5 months of development, but I'll keep improving it on some days. 🪨
