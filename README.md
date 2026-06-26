@@ -16,4 +16,6 @@ Honestly, Bank App is totally normal yet kind of strange Java project, because i
 ## How do I run it? 
  Go to released and download BankApp jar file, assuming that you have Latest JDK (Java Development Kit) Installed on your OS and set properly, you'll be able to run it by Left-clicking, or by Right clicking and Selecting "Open" if you use Windows.
 
+## Limitation: Statistics stay as 0 regardless of service connection or activity, if it wasn't modified from source code. (Let's see if this will change one day.)
+
 ### Decision: today as of June 26, Bank App is being fully finished after 5 months of development, but I'll keep improving it on some days. 🪨
