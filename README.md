@@ -7,7 +7,8 @@ User can Restart their account, change password of it or Clear/Invest Hypothethi
 ## How is it made: Of course, Bank App is made by using Java Swing and AWT (Abstract Window Toolkit). But comfortable Look & Feel comes from small library, FlatLaf.
 Swing is in-built framework from JRE System Library and is used for GUI-development. Click sound is managed by Java Sound API (Also called as Java Sound).
 
-## My opinion on it: Honestly, Bank App is totally normal yet kind of strange Java project, because it is not as fancy as RecipeManager just to say, but it still has some functionality.
+## My opinion on it: 
+Honestly, Bank App is totally normal yet kind of strange Java project, because it is not as fancy as RecipeManager just to say, but it still has some functionality.
 
 ## How do I run it? 
  Go to released and download BankApp jar file, assuming that you have Latest JDK (Java Development Kit) Installed on your OS and set properly, you'll be able to run it by Left-clicking, or by Right clicking and Selecting "Open" if you use Windows.
