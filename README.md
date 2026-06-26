@@ -6,7 +6,7 @@ BankApp is Java GUI-Based Desktop application which represents Demonstrational B
 It lets users to interact with in-built services (like RecipeManager) to track their Statistics, by Connect/Disconnecting the service.
 User can Restart their account, change password of it or Clear/Invest Hypothethical money from account.<br>
 
-Please Note that following application isn't real Bank App, it just demonstrates hypothethical banking operations.
+**Please Note that:** following application isn't real Bank App, it just demonstrates hypothethical banking operations.
 
 ## How it is made: 
 Of course, Bank App is made by using Java Swing and AWT (Abstract Window Toolkit). But comfortable Look & Feel comes from small library, FlatLaf.
