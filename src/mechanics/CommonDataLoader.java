@@ -2,15 +2,9 @@ package mechanics;
 
 import java.io.File;
 import java.io.IOException;
-
-import javax.swing.UIManager;
-import javax.swing.UnsupportedLookAndFeelException;
-
-import com.formdev.flatlaf.FlatDarkLaf;
-
-import other.Screen;
-
 import java.awt.Color;
+import other.Screen;
+import com.formdev.flatlaf.FlatDarkLaf;
 
 public class CommonDataLoader {
 	public static SignupSystem ss;
@@ -35,15 +29,11 @@ public class CommonDataLoader {
 		}
 	}
 	public static void check() {
-		  try {
-			  UIManager.setLookAndFeel(new FlatDarkLaf());
-			  if(new File("data.bap").exists() && new File("state.bap").exists()) {
-				  new Screen("Banking App | Login", false, 644, 445, new Color(226, 76, 36), true, null);
-			  }else {
-				  new Screen("Banking App | Login", false, 644, 445, new Color(226, 76, 36), true, null);
-			  }
-			 }catch(UnsupportedLookAndFeelException e) {
-			  	 e.printStackTrace();
-		  }
-	  }
+		FlatDarkLaf.setup();
+		if(new File("data.bap").exists() && new File("state.bap").exists()) {
+			 new Screen("Banking App | Login", false, 644, 445, new Color(226, 76, 36), true, null);
+		}else {
+			 new Screen("Banking App | Login", false, 644, 445, new Color(226, 76, 36), true, null);
+		}	
+	}
 }
