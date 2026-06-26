@@ -1,4 +1,4 @@
-# Bank App
+# Bank App in Java
 <img width="744" height="539" alt="image" src="https://github.com/IosebiGames/BankApp/blob/main/src/icons/image.png?raw=true"/>
 
 ## What is it:
