@@ -1,5 +1,6 @@
-# BankApp
-<img width="744" height="539" alt="image" src="https://github.com/IosebiGames/BankApp/blob/main/src/icons/image.png?raw=true" />
+# Bank App
+<img width="744" height="539" alt="image" src="https://github.com/IosebiGames/BankApp/blob/main/src/icons/image.png?raw=true"/>
+
 ## What is it:
 BankApp is Java GUI-Based Desktop application which represents Demonstrational Banking App. 
 It lets users to interact with in-built services (like RecipeManager) to track their Statistics, by Connect/Disconnecting the service.
